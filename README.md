@@ -20,13 +20,16 @@ Il utilise la bibliothèque javascript *chart.js* pour les graphiques et les dia
 
 Récupération du projet:
 ~~~
-
-
-
-
+git clone https://github.com/KASDmusic/TradingBarConcept
+~~~
 
 Execution du projet
 ~~~
     cd TradingBarConcept/src
     python3 Main.py
 ~~~
+
+Lancement de la visualisation:
+*rendez-vous dans le repertoire /web et lancez l'un des fichiers indexi.html où i est un nombre (ex: index1.html).*
+
+
