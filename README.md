@@ -33,6 +33,6 @@ Execution du projet
 ~~~
 
 Lancement de la visualisation:  
-*rendez-vous dans le repertoire /web et lancez l'un des fichiers indexi.html où i est un nombre (ex: index1.html).*
+*Rendez-vous dans le repertoire /web et lancez l'un des fichiers indexi.html où i est un nombre (ex: index1.html).*
 
 
