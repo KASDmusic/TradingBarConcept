@@ -7,7 +7,8 @@ De ce fait, je me suis dis qu'il serait une bonne idée de faire un système de 
 En effet, ce système pourrait par exemple valoriser les effets de groupe en permettant à un grand groupe de payer moins chère par exemple (dans le cas d'un système de trading inversé où plus la demande est grande et plus le prix baisse).
 
 ## Architecture 
-  
+
+* Le repertoire *doc* contient tout ce qui est relatif à la documentation (images, videos, ressources ...).
 * Le repertoire *src* contient le code source de l'application.
 * Le repertoire *src/web* contient les pages web générés à intervalles réguliers.
 
