@@ -16,7 +16,7 @@ En effet, ce système pourrait par exemple valoriser les effets de groupe en per
 
 ## Environnement
 
-Ce projet en Python3.  
+Ce projet est en Python3.  
 Il utilise la bibliothèque javascript *chart.js* pour les graphiques et les diagrammes.  
 
 ### Exécution
