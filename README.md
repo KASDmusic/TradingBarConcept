@@ -29,8 +29,8 @@ cd TradingBarConcept
 
 Execution du projet
 ~~~
-    cd src
-    python3 Main.py
+cd src
+python3 Main.py
 ~~~
 
 Lancement de la visualisation:  
