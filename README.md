@@ -24,11 +24,12 @@ Il utilise la bibliothèque javascript *chart.js* pour les graphiques et les dia
 Récupération du projet:
 ~~~
 git clone https://github.com/KASDmusic/TradingBarConcept
+cd TradingBarConcept
 ~~~
 
 Execution du projet
 ~~~
-    cd TradingBarConcept/src
+    cd src
     python3 Main.py
 ~~~
 
