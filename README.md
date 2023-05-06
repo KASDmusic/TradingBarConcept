@@ -1,4 +1,4 @@
-# TradingBarConcept
+# trading-bar-concept
 
 ![GUI](https://github.com/KASDmusic/TradingBarConcept/blob/main/doc/img/chart.png)
 
